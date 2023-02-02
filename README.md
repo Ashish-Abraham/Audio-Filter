@@ -1,4 +1,4 @@
-# Audio-Filter 🔊
+# Speech-Audio-Filter 🔊
 ![Image](https://github.com/Ashish-Abraham/Audio-Filter/blob/main/Images/richard-horvath-WOA3QKFjlo8-unsplash.jpg)
 Noise suppression in human speech audio samples using generative ML model. Identifying a person's audio from a mixed environment input.
 ## Neural Network
